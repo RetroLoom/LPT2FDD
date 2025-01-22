@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LPT2FDD")(type "KiCad")(uri "${KIPRJMOD}/LPT2FDD.pretty")(options "")(descr ""))
+)
