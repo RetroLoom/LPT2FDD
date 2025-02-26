@@ -5,10 +5,15 @@ LPT to Floppy Drive adapter for supported vintage laptops. This revision is spec
 <img src='Images/LPT2FDD_schematic.png' width=480>
 <img src='Images/LPT2FDD_PC-90XX.JPG' width=480>
 
+It may also be compatible with Compaq Armada series laptops, but this has not yet been tested and verified. Follow current discussions on vogons.
+
+https://www.vogons.org/viewtopic.php?t=105093
  
-## Build of Materials
+## Build of Materials and Installation
 Other than the PCB, there are really only two other connectors required to build the LPT2FDD.
-Use with a standard single drive floppy cable with the twist. Powering the floppy drive externally is required. A ps/2 to 5v will be provided soon.
+Use with a standard single drive floppy cable with the twist. Powering the floppy drive externally is required. A ps/2 to 5v adapter will be provided soon.
+
+Pin 3 of the DC3 connector may need to be removed for keyed floppy cables. 
 
 ### Example Sources
 34-Pin DC3 Connector
