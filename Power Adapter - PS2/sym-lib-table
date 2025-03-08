@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Custom_Symbols_Library")(type "Legacy")(uri "${KIPRJMOD}/4x1md/Custom_Symbols/Custom_Symbols_Library.lib")(options "")(descr ""))
+)
