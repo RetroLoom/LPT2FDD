@@ -5,9 +5,9 @@ LPT to Floppy Drive adapter for supported vintage laptops. This revision is spec
 <img src='Images/LPT2FDD_schematic.png' width=480>
 <img src='Images/LPT2FDD_PC-90XX.JPG' width=480>
 
-It may also be compatible with Compaq Armada series laptops, but this has not yet been tested and verified. Follow current discussions on vogons.
+v0.5 Adds a jumper resistor between pins 21 and 22 to allow compatibility with Compaq laptop external floppy detection. Currently it is recommended to use a 1k resistor for extra safety. This should trigger the Compaq laptop to recognize a connected floppy drive (if supported by laptop), but external power needs to be provided separately to the floppy drive. 
 
-https://www.vogons.org/viewtopic.php?t=105093
+More information and discussion can be found here - https://www.vogons.org/viewtopic.php?t=105093.
  
 ## Build of Materials and Installation
 Other than the PCB, there are really only two other connectors required to build the LPT2FDD.
